@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/rohitsthapit/.platformio/penv/bin:/Users/rohitsthapit/.platformio/penv:/Users/rohitsthapit/bin:/usr/local/bin:/Users/rohitsthapit/.local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/rohitsthapit/bin:/Users/rohitsthapit/.local/bin:/Users/rohitsthapit/anaconda3/bin:/Users/rohitsthapit/.go/bin:/usr/local/opt/go/libexec/bin:/Users/rohitsthapit/anaconda3/bin:/Users/rohitsthapit/.go/bin:/usr/local/opt/go/libexec/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Enabled"
+}
